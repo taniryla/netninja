@@ -1,0 +1,28 @@
+{
+    "name": "js-playlist",
+    "version": "1.0.0",
+    "description": "CSS and asset files for the Net Ninja YouTube nodejs playlist",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon -e js,ejs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/taniryla/node-js-playlist.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^3.1.6",
+        "express": "^4.17.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    },
+    "bugs": {
+        "url": "https://github.com/taniryla/node-js-playlist/issues"
+    },
+    "homepage": "https://github.com/taniryla/node-js-playlist#readme"
+}
